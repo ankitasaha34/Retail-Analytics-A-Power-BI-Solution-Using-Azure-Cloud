@@ -30,7 +30,7 @@ The dataset, sourced from the Instacart Market Basket Analysis on Kaggle, was tr
 
 ## Explore More  
 
-For a detailed explanation of the project and methodology, check out the blog on Medium: [Blog on Medium.com](#link-to-blog).  
+For a detailed explanation of the project and methodology, check out the blog on Medium: [Blog on Medium.com](https://medium.com/@ankitasaha34/retail-analytics-a-power-bi-solution-using-azure-cloud-f36536daa052).  
 
 ## Getting Started  
 
