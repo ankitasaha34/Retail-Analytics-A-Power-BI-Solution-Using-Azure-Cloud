@@ -20,7 +20,7 @@ Retail businesses often collect vast amounts of data on customer behavior, produ
 - Limited visibility into product performance and reorder trends.  
 - Operational inefficiencies in resource and inventory management during peak periods.  
 
-The dataset, sourced from the Instacart Market Basket Analysis on Kaggle, was transformed using Azure SQL and modeled into a star schema for efficient querying and visualization.  
+The dataset, sourced from the [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on Kaggle, was transformed using Azure SQL and modeled into a star schema for efficient querying and visualization.  
 
 ## Technologies Used  
 
